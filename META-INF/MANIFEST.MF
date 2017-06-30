@@ -1,0 +1,4 @@
+Manifest-Version: 1.2
+Class-Path: ../OMITconnector.jar
+Main-Class: TripleCreator
+

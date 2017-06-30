@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OMITconnector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../OMITconnector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
